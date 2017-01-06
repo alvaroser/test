@@ -102,9 +102,12 @@ bool Vehicule::operator ==(const Vehicule& p_vehicule) const {
 			&& (m_dateEnregistrement == p_vehicule.m_dateEnregistrement));
 } // A changer partie alvaro
 
+/*
 void Vehicule::verifieInvariant() const {
 	INVARIANT(util::validerNiv(m_niv) == 1);
 	INVARIANT(util::validerImmatriculation(m_immatriculation) == 1);
+*/
+
 }
 }
 /* namespace tp */
