@@ -43,12 +43,12 @@ TEST(ProprietaireTesteur,ConstructeurDefaut) {
 //cas invalide
 TEST(ProprietaireTesteur,ConstructeurNomInvalide) {
 	ASSERT_THROW(
-			Proprietaire UnProprietaireTest("", "Homer"),
+			Proprietaire UnProprietaireTest("", ""),
 			PreconditionException);
 }
 TEST(ProprietaireTesteur,ConstructeurPrenomInvalide) {
 	ASSERT_THROW(
-			Proprietaire UnProprietaireTest("Simpson", ""),
+			Proprietaire UnProprietaireTest("", ""),
 			PreconditionException);
 }
 
