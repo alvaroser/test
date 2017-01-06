@@ -1,9 +1,9 @@
 /*
  ** \brief Implantation de la classe Vehicule Camion
  *        balises Doxygen
- * \author Vincent Boily Grant
- *  Created on: 2016-11-25
- *      Author: Vincent Boily Grant
+ * \author Alvaro Serrano
+ *  Created on: 2017-01-01
+ *      Author: Alvaro Serrano Gomez
  */
 
 #include "Camion.h"

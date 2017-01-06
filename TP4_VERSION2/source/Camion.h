@@ -2,7 +2,7 @@
  * Camion.h
  *
  *  Created on: 2016-11-25
- *      Author: etudiant
+ *      Author: Alvaro Serrano
  */
 
 #ifndef CAMION_H_

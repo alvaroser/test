@@ -1,8 +1,8 @@
 /**
  * \file ContratException.cpp
  * \brief Implantation de la classe ContratException et de ses héritiers
- * \author administrateur
- * \date 16 janvier 2014
+ * \author Alvaro Serrano
+ * \date 16 janvier 2015
  * \version révisée balises Doxygen C++ normes H2014
  */
 #include "ContratException.h"
